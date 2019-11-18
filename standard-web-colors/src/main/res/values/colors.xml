@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="alice_blue">#F0F8FF</color>
+    <color name="antique_white">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aqua_marine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#000000</color>
+    <color name="blanched_almond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blue_violet">#8A2BE2</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burly_wood">#DEB887</color>
+    <color name="cadet_blue">#5F9EA0</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflower_blue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="dark_cyan">#008B8B</color>
+    <color name="dark_golden_rod">#B8860B</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="dark_grey">#A9A9A9</color>
+    <color name="dark_green">#006400</color>
+    <color name="dark_khaki">#BDB76B</color>
+    <color name="dark_magenta">#8B008B</color>
+    <color name="dark_olive_green">#556B2F</color>
+    <color name="dark_orange">#FF8C00</color>
+    <color name="dark_orchid">#9932CC</color>
+    <color name="dark_red">#8B0000</color>
+    <color name="dark_salmon">#E9967A</color>
+    <color name="dark_sea_green">#8FBC8F</color>
+    <color name="dark_slate_blue">#483D8B</color>
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="dark_slate_grey">#2F4F4F</color>
+    <color name="dark_turquoise">#00CED1</color>
+    <color name="dark_violet">#9400D3</color>
+    <color name="deep_pink">#FF1493</color>
+    <color name="deep_sky_blue">#00BFFF</color>
+
+</resources>

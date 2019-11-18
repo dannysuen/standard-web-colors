@@ -1,0 +1,2 @@
+include ':app', ':standard-web-colors'
+rootProject.name='Standard Web Colors'
